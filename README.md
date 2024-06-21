@@ -26,10 +26,10 @@
 ## Status
 <div>
   <!-- GithubStats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago-m-silva&show_icons=true&theme=gotham" height="200"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago-m-silva&show_icons=true&theme=gotham" width="400" height="200"> 
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-m-silva&layout=compact&show_icons=true&theme=gotham" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-m-silva&layout=compact&show_icons=true&theme=gotham" width="300" height="200">
 </div>
 
 ## Habilidades
