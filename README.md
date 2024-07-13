@@ -24,7 +24,7 @@
 </div>
 
 ## Status
-<div>
+<div align="center">
   <!-- GithubStats -->
   <img src="https://github-readme-stats.vercel.app/api?username=thiago-m-silva&show_icons=true&theme=gotham" width="400" height="200"> 
   
