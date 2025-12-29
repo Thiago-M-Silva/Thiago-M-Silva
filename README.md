@@ -20,8 +20,8 @@
 const thiago = {
   role: "Full-Stack Developer",
   education: "Information Systems - UFG",
-  focus: ["Web Development", "Backend Systems", "Full Stack Systems", "Data Integration"],
-  goal: "Build products that make people's lives easier 🎯"
+  focus: ["Web Development", "Backend Systems", "Full Stack Systems", "System Integration"],
+  goal: "Just organizing and simplifying things 🎯"
 };
 ```
 
@@ -193,8 +193,7 @@ const thiago = {
   
 ### 💭 Philosophy
 
-*"One step per day, always evolving"*
-*"There is no grand design. No script. Only the choices you make. That your choices are so predictable merely makes us seem prescient" - Norns, GOW Ragnarok
+*"There is no grand design. No script. Only the choices you make. That your choices are so predictable merely makes us seem prescient"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thiago-m-silva&color=blueviolet&style=flat-square&label=Profile+Views)
 
