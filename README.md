@@ -193,7 +193,7 @@ const thiago = {
   
 ### 💭 Philosophy
 
-*"There is no grand design. No script. Only the choices you make. That your choices are so predictable merely makes us seem prescient"
+*"There is no grand design. No script. Only the choices you make."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thiago-m-silva&color=blueviolet&style=flat-square&label=Profile+Views)
 
